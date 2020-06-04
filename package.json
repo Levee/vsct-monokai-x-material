@@ -1,9 +1,12 @@
 {
-  "name": "dgtalheroes-vscode-theme",
-  "displayName": "DgtalHeroes Theme",
-  "description": "Nice blue theme for Visual Studio Code from DgtalHeroes",
+  "name": "monokai-x-synthwave",
+  "displayName": "Monokai X SynthWave '84",
+  "description": "A combo of the Monokai Charcoal (purple) theme and the SynthWave '84 theme.",
   "version": "0.0.1",
-  "publisher": "dgtalheroes",
+  "publisher": "levee",
+  "repository": {
+    "url": "https://github.com/Levee/vsct-monokai-x-synthwave"
+  },
   "engines": {
     "vscode": "^1.45.0"
   },
@@ -13,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "DgtalHeroes Color Theme",
+        "label": "Levee MonokaiXSynthWave",
         "uiTheme": "vs-dark",
         "path": "./themes/DgtalHeroes Color Theme-color-theme.json"
       }

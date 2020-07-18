@@ -1,11 +1,11 @@
 {
   "name": "monokai-x-synthwave",
-  "displayName": "Monokai X SynthWave '84",
-  "description": "A combo of the Monokai Charcoal (purple) theme and the SynthWave '84 theme.",
+  "displayName": "Monokai X Atom Material",
+  "description": "A combo of the Monokai Charcoal (purple) theme and the Atom Material theme.",
   "version": "0.0.1",
   "publisher": "levee",
   "repository": {
-    "url": "https://github.com/Levee/vsct-monokai-x-synthwave"
+    "url": "https://github.com/Levee/vsct-monokai-x-material"
   },
   "engines": {
     "vscode": "^1.45.0"
@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Levee MonokaiXSynthWave",
+        "label": "Levee MonokaiXMaterial",
         "uiTheme": "vs-dark",
-        "path": "./themes/DgtalHeroes Color Theme-color-theme.json"
+        "path": "./themes/monokaiXMaterial.json"
       }
     ]
   }

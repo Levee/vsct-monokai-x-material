@@ -1,2 +1,2 @@
-# vsct-monokai-x-synthwave
-Monokai Charcoal X SynthWave '84 - a VS Code theme
+# vsct-monokai-x-material
+Monokai Charcoal X Atom Material - a VS Code theme

@@ -1,5 +1,5 @@
 {
-  "name": "monokai-x-synthwave",
+  "name": "monokai-x-material",
   "displayName": "Monokai X Atom Material",
   "description": "A combo of the Monokai Charcoal (purple) theme and the Atom Material theme.",
   "version": "0.0.1",
@@ -18,7 +18,7 @@
       {
         "label": "Levee MonokaiXMaterial",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokaiXMaterial.json"
+        "path": "./themes/monokaiXmaterial.json"
       }
     ]
   }
